@@ -13,7 +13,6 @@ Version: 1.0.0
     margin: auto;
 }
 
-/* --- Styling Dropdown Sorting --- */
 .sorting-form {
     margin-bottom: 20px;
 }
@@ -28,7 +27,6 @@ Version: 1.0.0
     appearance: none;
 }
 
-/* --- Event Cards Container (Flexbox) --- */
 .event-container {
     display: flex;
     gap: 20px;
@@ -36,7 +34,6 @@ Version: 1.0.0
     justify-content: flex-start;
 }
 
-/* --- Styling Card Tunggal --- */
 .event-card {
     width: 250px;
     border: 3px solid #15b5f4ff; /* Biru */
@@ -50,7 +47,6 @@ Version: 1.0.0
     flex-direction: column;
 }
 
-/* --- Card Elements --- */
 .event-picture-placeholder {
     height: 100px;
     background: #f0f0f0;
@@ -74,7 +70,6 @@ Version: 1.0.0
     margin: 5px 0;
 }
 
-/* --- Styling Total Events --- */
 .event-count-display {
     color: darkslateblue;
     margin-top: 20px;
